@@ -85,7 +85,7 @@ Project created and run using:
 ## Code example
 
 ```python
-## Code Snippet from citibike_data_cleaning.ipynb
+## Code Snippet from Crypto_Clustering.ipynb
 #################################################
 
 # Initialise the K-Means model using the best value for k
