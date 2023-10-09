@@ -8,7 +8,7 @@ Created and submitted for an assignment for Monash University Data Analytics Boo
 ## Table of Contents
 
 - [General info](#general-info)
-- [Questions & Answers](#questions-&-answers)
+- [Questions and Answers](#questions-and-answers)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Code example](#code-example)
@@ -36,7 +36,7 @@ Created and submitted for an assignment for Monash University Data Analytics Boo
   - Raw data: crypto_market_data.csv
   - Cryptocurrency banner image and various chart screenshots.
 
-## Questions & Answers
+## Questions and Answers
 
 1. #### What is the best value for `k`?
 
