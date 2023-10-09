@@ -8,7 +8,7 @@ Created and submitted for an assignment for Monash University Data Analytics Boo
 ## Table of Contents
 
 - [General info](#general-info)
-- [Questions & Answers](#<questions & answers>)
+- [Questions & Answers](#questions-&-answers)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Code example](#code-example)
